@@ -2,8 +2,8 @@
 
 ## Carolyn Acuña Monge
 
-![Cambio en rama a](imagenes/cambio_rama_a)
-![Cambio en rama b](imagenes/cambio_rama_b)
+![Cambio en rama a](imagenes/cambio_rama_a.png)
+![Cambio en rama b](imagenes/cambio_rama_b.png)
 
 ## Resumen completo de comandos Git utilizados
 
